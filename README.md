@@ -1,2 +1,3 @@
-# awesome
-My collection of awesome links.
+## macOS
+
+## Emacs
